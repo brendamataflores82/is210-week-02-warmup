@@ -1,0 +1,6 @@
+Edit task_01.py
+Edit task.02.py
+execute
+lintin test $ pylint filename.px
+unit test/hello world test.py
+running all test $/runtest.sh
